@@ -1,0 +1,22 @@
+{
+  "name": "codespace",
+  "version": "0.0.1",
+  "description": "## Reproduce Workspace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenbarklie/codespace.git"
+  },
+  "author": "DBB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenbarklie/codespace/issues"
+  },
+  "homepage": "https://github.com/darrenbarklie/codespace#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
